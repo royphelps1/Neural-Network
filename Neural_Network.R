@@ -10,7 +10,7 @@ library ("NeuralNetTools")
 
 
 # Read the diabetes data file.  Change the file location for your file.
-setwd("/Users/royphelps/Library/CloudStorage/OneDrive-UMGC/Classes/Data 630 9040/Weeks 8 and 9/Assignment 4")
+setwd("/Users/")
 di<-read.csv(file="wdbc.csv", head=TRUE, sep=",")
 
 
